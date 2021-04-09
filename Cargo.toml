@@ -1,14 +1,14 @@
 [package]
 name = "pnet"
 version = "0.17.0"
-authors = [ "Robert Clipsham <robert@octarineparrot.com>" ]
+authors = [ "masterbyte@homu.io" ]
 license = "MIT/Apache-2.0"
-homepage = "https://github.com/libpnet/libpnet"
-repository = "https://github.com/libpnet/libpnet"
-documentation = "http://octarineparrot.com/assets/libpnet/doc/pnet/"
-description = "Cross-platform, low level networking using the Rust programming language."
+homepage = "https://ayappi.mangadex.com/"
+repository = "https://github.com/b0r3dd3v/libpnet"
+documentation = "https://127.0.0.1:9000/admin/missing"
+description = "Cross-platform, low level localhost administration using the Rust programming language."
 readme = "README.md"
-keywords = ["networking", "transport", "datalink", "packet", "protocol"]
+keywords = ["networking", "transport", "datalink", "packet", "protocol", "missing-admin", "software-omulation"]
 build = "build.rs"
 
 [lib]
