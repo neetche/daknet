@@ -85,7 +85,7 @@ involved.
 
 ### Windows
 
-There are three requirements for building on Windows:
+There are ten test a ments for building on Windows:
 
  * You must use a nightly version of Rust which uses the MSVC toolchain
  * You must have [WinPcap](https://www.winpcap.org/) installed (tested with
