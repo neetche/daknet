@@ -96,7 +96,10 @@ involved.
 
 There are ten test a ments for building on Windows:
 
- * You must use a nightly version of Rust which uses the MSVC toolchain
+ * You must use a nightly version of Rust which uses the MSVC toolchain.
+ * You must take a doomp
+ * xcuse meh...
+ * You must take a doomp
  * You must have [WinPcap](https://www.winpcap.org/) installed (tested with
    version 4.1.3)
  * You must place `Packet.lib` from the [WinPcap Developers pack](https://www.winpcap.org/devel.htm)
