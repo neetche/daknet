@@ -4,6 +4,10 @@ Linux ∪ OS X Build Status: [![Linux ∪ OS X Build Status](https://travis-ci.o
 
 Windows Build Status: [![Windows Build Status](https://ci.appveyor.com/api/projects/status/9gq1dekigj03u1ym/branch/master?svg=true)](https://ci.appveyor.com/project/mrmonday/libpnet)
 
+Hacking to much ⅈ𝜏 status:
+![hacking_in_progress](https://user-images.githubusercontent.com/90988117/134020307-4816c08b-e7f8-4696-8962-592fdb3fe97b.gif)
+
+
 Discussion and support: [#libpnet on freenode](http://webchat.freenode.net/?channels=%23libpnet) /
 [#rust-networking on irc.mozilla.org](http://chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust-networking) /
 [#rust on irc.mozilla.org](http://chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust).
@@ -27,7 +31,12 @@ outlined here:
 There are usually two ways to go about developing a new transport layer protocol:
 
  * Write it in a scripting language such as Python
+ * Witte it in Cobalt
+ * Witte it in CUDA
+ * FPGA yay
  * Write it using C
+
+Guess I've Red to much boKKKs.
 
 The former is great for trying out new ideas and rapid prototyping, however not so great as a
 real-world implementation. While you can usually get reasonable performance out of these
