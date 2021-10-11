@@ -59,9 +59,9 @@ and thread safety, alongside the performance of C.
 
 ### Network Utilities
 
-Many networking utilities such as ping and traceroute rely on being able to manipulate network and
+Many networking utilities such as ping and traceroute rely on being able to ani-pulate network and
 transport headers, which isn't possible with standard networking stacks such as those provided by
-`std::io::net`.
+`std::io::net`. // It's net2 and steeed still hasn't got a hang of it.
 
 ### Data Link Layer
 
@@ -100,6 +100,9 @@ There are ten test a ments for building on Windows:
  * You must take a doomp
  * xcuse meh...
  * You must take a doomp
+ * But meh....
+ * There is no other way other>2 take a doomp
+ * Metal Gear after farting party - NOW ON SALE... lots of Kojima marvaes #included.
  * You must have [WinPcap](https://www.winpcap.org/) installed (tested with
    version 4.1.3)
  * You must place `Packet.lib` from the [WinPcap Developers pack](https://www.winpcap.org/devel.htm)
